@@ -1,0 +1,9 @@
+pandas
+numpy
+dotenv
+oracledb
+sqlalchemy
+langchain-openai
+langchain-core
+langchain langgraph
+chainlit
